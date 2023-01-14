@@ -9,12 +9,12 @@
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-Front End Developer dedicated to enhancing the web with integrated innovation and optimizing user experience with web accessibility. Passionate about web inclusivity and innovation, as they are the values that ushered me into the world of tech as a creative coder. Highly proficient in JS, P5js, and CSS.  Scholarship recipient for the Udacity Front End Web Development Nanodegree Program ‘22 - ‘23, where I remain at the top of the cohert’s leadership boards. As I build to meet user needs, I plan to heavily contribute to open-source and be an active asset within the developer community. 
+Front End Developer dedicated to enhancing the web with integrated innovation and optimizing user experience with web accessibility. Passionate about web inclusivity and innovation, as they are the values that ushered me into the world of tech as a creative coder. Proficient in JS and CSS.  Scholarship recipient for the Udacity Front End Web Development Nanodegree Program ‘22 - ‘23, where I remain at the top of the cohert’s leadership boards. As I build to meet user needs, I plan to heavily contribute to open-source and be an active asset within the developer community. 
 
 - :tada: Now working on my portfolio website! 
 - :star2: Currently learning React, SASS, and TypeScript.
 - :hearts: Looking to collaborate on open source projects focused on accessibility.  
-- :high_brightness: Also interested in Web Design and Game Development.
+- :high_brightness: Also interested in Technical Writing and Game Development.
 
 ---
 
