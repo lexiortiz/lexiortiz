@@ -12,12 +12,12 @@
 Front End Developer dedicated to enhancing the web with integrated innovation and optimizing user experience with web accessibility. Proficient in CSS and JS. Passionate about web inclusivity and innovation, as they are the values that ushered me into the world of tech as a creative coder. As I build to meet user needs, I plan to heavily contribute to open-source and be an active asset within the developer community.
 
 - :tada: Now working on my portfolio website! 
-- :star2: Currently learning React, SASS, and TypeScript.
+- :star2: Currently learning Python.
 - :hearts: Looking to collaborate on open source projects focused on accessibility.  
-- :high_brightness: Also interested in Technical Writing and Game Development.
+- :high_brightness: Also interested in Game Development, Animation, and VFX.
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/scriptnscribe) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aortiz.developer@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aortiz-dev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/scriptnscribe)  [![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/@lexiortiz) [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/scriptnscribe)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anacloudniine) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aortiz.developer@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aortiz-dev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aeriulmusic)  [![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/@lexiortiz)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y0GJ8O4)
