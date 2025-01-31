@@ -2,7 +2,7 @@
 
 Exploring the exciting crossroads of data, technology, and creativity! My journey started as a self-taught web developer and grew into a role as a data quality analyst, where I honed my skills in improving AI and user experiences.
 
-:tada: **What I’m Up To Now**: Building my portfolio and expanding my SQL, Python, and cloud computing skills.
+:tada: **What I’m Up To Now**: Building my portfolio and expanding my SQL and cloud computing skills.
 
 :hearts: **What Excites Me**: Collaborating on open-source projects that make an impact.
 
