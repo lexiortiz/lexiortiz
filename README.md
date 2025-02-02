@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&vCenter=true&width=435&lines=DATA+SCIENTIST;CREATIVE+CODER;ACCESSIBILITY+ADVOCATE;OPEN+SOURCE+ENTHUSIAST;QUALITY+ASSURANCE+ANALYST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&vCenter=true&width=435&lines=DATA+ENGINEER;CREATIVE+CODER;ACCESSIBILITY+ADVOCATE;OPEN+SOURCE+ENTHUSIAST;QUALITY+ASSURANCE+ANALYST)](https://git.io/typing-svg)
 
 Exploring the exciting crossroads of data, technology, and creativity! My journey started as a self-taught web developer and grew into a role as a data quality analyst, where I honed my skills in improving AI and user experiences.
 
